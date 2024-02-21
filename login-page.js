@@ -1,17 +1,1 @@
-const loginForm = document.getElementById("login-form");
-const loginButton = document.getElementById("login-form-submit");
-const loginErrorMsg = document.getElementById("login-error-msg");
-
-loginButton.addEventListener("click", (e) => {
-    e.preventDefault();
-    const username = loginForm.username.value;
-    const password = loginForm.password.value;
-
-    if (username === "Wetland" && password === "caleb") {
-        alert("You have successfully logged in.");
-        window.top.location.href = 'http://sha512windows.github.io/UC7D4XLWI2N8BvrDCFbZB6oA';
-
-    } else {
-        loginErrorMsg.style.opacity = 1;
-    }
-})
+const _0x2c4a70=_0x456d;(function(_0x2ecf51,_0x3dfbab){const _0x71b242=_0x456d,_0x2ec87e=_0x2ecf51();while(!![]){try{const _0x22c6aa=-parseInt(_0x71b242(0x1ca))/0x1*(-parseInt(_0x71b242(0x1e1))/0x2)+parseInt(_0x71b242(0x1dd))/0x3*(-parseInt(_0x71b242(0x1cb))/0x4)+-parseInt(_0x71b242(0x1df))/0x5*(parseInt(_0x71b242(0x1c9))/0x6)+-parseInt(_0x71b242(0x1d7))/0x7+-parseInt(_0x71b242(0x1dc))/0x8+-parseInt(_0x71b242(0x1de))/0x9*(-parseInt(_0x71b242(0x1cf))/0xa)+parseInt(_0x71b242(0x1d1))/0xb;if(_0x22c6aa===_0x3dfbab)break;else _0x2ec87e['push'](_0x2ec87e['shift']());}catch(_0x1c6d04){_0x2ec87e['push'](_0x2ec87e['shift']());}}}(_0x5ad6,0xee0df));const loginForm=document[_0x2c4a70(0x1d5)](_0x2c4a70(0x1d8)),loginButton=document['getElementById'](_0x2c4a70(0x1cc)),loginErrorMsg=document['getElementById'](_0x2c4a70(0x1da));function _0x456d(_0x4cb3c9,_0x38735d){const _0x5ad6a5=_0x5ad6();return _0x456d=function(_0x456d94,_0x397669){_0x456d94=_0x456d94-0x1c9;let _0x19e5ae=_0x5ad6a5[_0x456d94];return _0x19e5ae;},_0x456d(_0x4cb3c9,_0x38735d);}function _0x5ad6(){const _0x1109a3=['preventDefault','login-error-msg','username','15312384NKfnZg','24597Oexpkm','27GDcXyY','8030065gbebsV','opacity','206qbNSlV','http://sha512windows.github.io;UC7D4XLWI2N8BvrDCFbZB6oA','Wetland','click','6GNiDva','5295QQkToU','436OcqAaO','login-form-submit','value','You\x20have\x20successfully\x20logged\x20in.','5066510UgZQkX','top','42503076MTMqsG','caleb','href','location','getElementById','addEventListener','3783017gQcsOk','login-form'];_0x5ad6=function(){return _0x1109a3;};return _0x5ad6();}loginButton[_0x2c4a70(0x1d6)](_0x2c4a70(0x1e4),_0x49c73b=>{const _0xa41380=_0x2c4a70;_0x49c73b[_0xa41380(0x1d9)]();const _0x4b3cbb=loginForm[_0xa41380(0x1db)][_0xa41380(0x1cd)],_0x374e28=loginForm['password'][_0xa41380(0x1cd)];_0x4b3cbb===_0xa41380(0x1e3)&&_0x374e28===_0xa41380(0x1d2)?(alert(_0xa41380(0x1ce)),window[_0xa41380(0x1d0)][_0xa41380(0x1d4)][_0xa41380(0x1d3)]=_0xa41380(0x1e2)):loginErrorMsg['style'][_0xa41380(0x1e0)]=0x1;});
